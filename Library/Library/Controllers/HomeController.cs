@@ -4,8 +4,8 @@ using System.Linq;
 using System.Web;
 using System.Web.Mvc;
 using Model;
-using System.Collections.Generic;
 using Library.Models;
+using Database;
 
 namespace Library.Controllers
 {
@@ -13,9 +13,11 @@ namespace Library.Controllers
     {
         public ActionResult Index()
         {
+            ProductoDB productoDB = new ProductoDB();
+            List<Producto> listaProductosVenta = productoDB.FiveProducts();
             ViewBag.Message = "General Information";
-            ProductosViewModel ProductoViewModel = new ProductosViewModel();
-            ProductoViewModel.addProduct(new Producto(2, "nada", "jose", 4));
+            ProductosViewModel ProductoViewModel = new ProductosViewModel(listaProductosVenta,"Articulos");
+            
 
 
 

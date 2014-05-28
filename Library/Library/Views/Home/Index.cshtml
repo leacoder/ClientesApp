@@ -14,5 +14,10 @@
 }
 <h3>We suggest the following:</h3>
 
-     @Html.TextBoxFor(m => m.Categoria)
-      @Html.TextBoxFor(m => m.productos)
+@Html.TextBoxFor(m => m.Categoria)
+<ul>
+    @foreach (var producto in Model.productos)
+    {
+        <li>@producto</li>
+    }
+</ul>

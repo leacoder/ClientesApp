@@ -1,0 +1,7 @@
+C:\Users\Lea\Documents\GitHub\ClientesApp\Library\Database\bin\Debug\Database.dll
+C:\Users\Lea\Documents\GitHub\ClientesApp\Library\Database\bin\Debug\Database.pdb
+C:\Users\Lea\Documents\GitHub\ClientesApp\Library\Database\bin\Debug\Model.dll
+C:\Users\Lea\Documents\GitHub\ClientesApp\Library\Database\bin\Debug\Model.pdb
+C:\Users\Lea\Documents\GitHub\ClientesApp\Library\Database\obj\Debug\Database.csprojResolveAssemblyReference.cache
+C:\Users\Lea\Documents\GitHub\ClientesApp\Library\Database\obj\Debug\Database.dll
+C:\Users\Lea\Documents\GitHub\ClientesApp\Library\Database\obj\Debug\Database.pdb

@@ -11,15 +11,10 @@ namespace Library.Models
         public List<Producto> productos { get; set; }
         public String Categoria { get; set; }
 
-        public ProductosViewModel()
+        public ProductosViewModel(List<Producto> listaProductos, String categoria)
         {
-            this.Categoria = "Juguetes";
-            this.productos = new List<Producto>();
-        }
-
-        public void addProduct(Producto producto)
-        {
-            productos.Add(producto);
+            this.Categoria = categoria;
+            this.productos = listaProductos;
         }
     }
 }

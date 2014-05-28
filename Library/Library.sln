@@ -14,6 +14,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = ".nuget", ".nuget", "{FD3AF9
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Model", "Model\Model.csproj", "{BE702751-30C6-4F50-9909-86D3F0316CF8}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DatabaseMock", "Database\DatabaseMock.csproj", "{87D5CEF8-AF44-4717-944A-DEE0104A3A59}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -32,6 +34,10 @@ Global
 		{BE702751-30C6-4F50-9909-86D3F0316CF8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BE702751-30C6-4F50-9909-86D3F0316CF8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BE702751-30C6-4F50-9909-86D3F0316CF8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{87D5CEF8-AF44-4717-944A-DEE0104A3A59}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{87D5CEF8-AF44-4717-944A-DEE0104A3A59}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{87D5CEF8-AF44-4717-944A-DEE0104A3A59}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{87D5CEF8-AF44-4717-944A-DEE0104A3A59}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
