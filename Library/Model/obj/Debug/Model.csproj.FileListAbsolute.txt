@@ -1,0 +1,5 @@
+C:\Users\lgarcia\Documents\Visual Studio 2010\Projects\Library\Model\bin\Debug\Model.dll
+C:\Users\lgarcia\Documents\Visual Studio 2010\Projects\Library\Model\bin\Debug\Model.pdb
+C:\Users\lgarcia\Documents\Visual Studio 2010\Projects\Library\Model\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\lgarcia\Documents\Visual Studio 2010\Projects\Library\Model\obj\Debug\Model.dll
+C:\Users\lgarcia\Documents\Visual Studio 2010\Projects\Library\Model\obj\Debug\Model.pdb
